@@ -45,23 +45,16 @@ Print the initial grid. This would be followed by the grid after each move. In c
 Invalid Move
 
 The board needs to be printed in the following format based on the respective position:
-
 X X O
 - - X
 O O -
-Here,
-
-X and O represent the different pieces. An empty cell is represented by a hyphen (-).
-
+Here, X and O represent the different pieces. An empty cell is represented by a hyphen (-).
 The initial position of the board would be
-
 - - -
 - - -
 - - -
-If the player wins after a move, print: 'Player_Name won the game'
 
-If there are no valid moves left for any player, print 'Game Over'
-
+If the player wins after a move, print: 'Player_Name won the game'. If there are no valid moves left for any player, print 'Game Over'.
 Examples:
 
 Sample Input
